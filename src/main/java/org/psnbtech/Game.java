@@ -1,5 +1,5 @@
 package org.psnbtech;
-//making some edits
+//edit
 import java.awt.BorderLayout;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
